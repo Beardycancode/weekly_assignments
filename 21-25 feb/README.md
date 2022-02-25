@@ -7,3 +7,14 @@
 
 
 2:-  A UI for rock, paper scissor- https://beardycancode.github.io/weekly_assignments/21-25%20feb/22feb/ass2/GAME.html
+
+
+
+23-02-2022
+hosted Login page link:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/23feb/login.html
+
+
+
+
+Registration page link:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/23feb/registrationpage.html
+
