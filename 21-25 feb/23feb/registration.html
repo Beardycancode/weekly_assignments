@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Page</title>
+    <link rel="icon" href="https://img.icons8.com/ios/50/000000/chat--v1.png"/>
+    <link rel="stylesheet" href="registration.css">
+</head>
+<body>
+    <form>
+        <a href="#"><img src="https://img.icons8.com/ios/50/000000/chat--v1.png"/></a>
+        <div class="form-title">
+            <h3>Sign up with your email</h3>
+            <h6>Already have an account?<a href="login.html"> Sign in</a></h6>
+        </div>
+        <input type="name" size="40" placeholder="Enter your first name"  pattern="[a-zA-Z]+" required/>
+        <input type="name" size="40" placeholder="Enter your last name"  pattern="[a-zA-Z]+" required/>
+        <input type="email" name="email" placeholder="Enter your email" autocomplete="email" required>
+        <input type="password" name="password" placeholder="Enter your password" autocomplete="current-password" required>
+        <select style="width: 20%;">
+            <option  selected disabled>Select Gender</option>
+            <option value="2">Male</option>
+            <option value="3">Female</option>
+            <option value="4">Other</option> 
+        <input id="check" type="checkbox" name="check">I agree to the terms and conditions
+        <button>Create Account</button>
+    </form>
+</body>
+</html>
