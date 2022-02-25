@@ -11,10 +11,13 @@
 
 
 23-02-2022
-hosted Login page link:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/23feb/login.html
+
+
+
+1:- hosted Login page link:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/23feb/login.html
 
 
 
 
-Registration page link:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/23feb/registrationpage.html
+2:- Registration page link:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/23feb/registrationpage.html
 
