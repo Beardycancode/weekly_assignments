@@ -1,6 +1,6 @@
 
-body
-{
+
+body{
     background: url(https://api.time.com/wp-content/uploads/2014/03/facebook-profile-2009.jpg);
     background-repeat: no-repeat;
     margin: 0;
@@ -14,8 +14,8 @@ form
 {
     background-color: white;
     position: fixed;
-    bottom: 0px;
-    right : 5px;
+    bottom: 0;
+    right: 5px;    
 }
 .head
 {
@@ -46,18 +46,18 @@ form
 }
 .icons:hover
 {
-   cursor: pointer;
+    cursor: pointer;
 }
 .on-off
-{
+{    
     border: 1px solid rgb(197, 191, 191);
 }
 .on-off pre
-{
+{   
     opacity: 0.5;
 }
 .on-off a
-{
+{  
     text-decoration: none;
 }
 .time
@@ -81,6 +81,7 @@ form
 .chat [type=name]
 {
     border: none;
+    ba
 }
 .message
 {
@@ -94,7 +95,8 @@ form
     border-bottom: none;
     border-left: none;
 }
-.add{
+.add
+{
     display: flex;
 }
 .add > #emoji:hover
