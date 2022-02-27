@@ -48,3 +48,12 @@ Facebook Chatbox:-https://beardycancode.github.io/weekly_assignments/21-25%20feb
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+25-02-2022
+
+Palindrome:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/25feb/palindrome.html
+
+
+Anagram:- https://beardycancode.github.io/weekly_assignments/21-25%20feb/25feb/anagram.html
