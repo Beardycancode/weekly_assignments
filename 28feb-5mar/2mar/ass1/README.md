@@ -1,4 +1,4 @@
-Design a 404 page:- https://beardycancode.github.io/weekly_assignments/28feb-5mar/2mar/ass1/error404.html
+Design a 404 page:- https://beardycancode.github.io/weekly_assignments/28feb-5mar/2mar/ass1/404.html
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
