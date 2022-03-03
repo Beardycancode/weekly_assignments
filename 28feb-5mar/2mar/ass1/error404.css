@@ -23,7 +23,6 @@ background: rgb(255, 249, 249);
     text-align: center;
     max-width: 500px;
     max-height: 500px;
-    background: url(back.png);
     border-radius: 30px;
     animation: shake 0.5s;
     animation-iteration-count: infinite;
