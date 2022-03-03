@@ -51,6 +51,10 @@ background: rgb(255, 249, 249);
     text-shadow: 2px 2px 5px rgb(238, 231, 231);
     font-family: 'ZCOOL KuaiLe', cursive;
 }
+.content{
+    display: flex;
+    flex-direction: column;
+}
 .content h3{
     color: #f7f7f7;
     text-shadow: 2px 2px 5px rgb(238, 231, 231);
