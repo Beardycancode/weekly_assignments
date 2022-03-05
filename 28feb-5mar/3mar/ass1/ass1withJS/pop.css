@@ -1,0 +1,40 @@
+body {
+  height: 89vh;
+  background: linear-gradient(to top left, #16718d, #6fb8d5);
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+button{
+  padding: 10px 30px;
+  background-color: white;
+  border-radius: 20px;
+  border-color: transparent;
+  font-size: 30px;
+  box-shadow: 6px 6px 4px #dfe7e5;
+}
+button:hover{
+  cursor: pointer;
+}
+button:active{
+  box-shadow: 0px 0px 0px;
+}
+.none{
+  display: none;
+  position: relative;
+  bottom: 50px
+}
+.initial{
+  display: initial;
+}
+.main{
+  margin-top: 10vh;
+}
+#sub{
+  position: sticky;
+  top: 10vh;
+}
+img{
+  width: 200px;
+}
