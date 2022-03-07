@@ -10,4 +10,4 @@ https://beardycancode.github.io/weekly_assignments/28feb-5mar/3mar/ass1/ass1with
 Without JS:-
 
 
-https://beardycancode.github.io/weekly_assignments/28feb-5mar/3mar/ass1/popup.html#main
+https://beardycancode.github.io/weekly_assignments/28feb-5mar/3mar/ass1/popup.html
