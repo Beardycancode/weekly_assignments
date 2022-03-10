@@ -1,0 +1,21 @@
+.box{
+    display: flex;
+}
+input[type=checkbox] {
+    display: none;
+  }
+  
+  .container img {
+    margin: 100px;
+    transition: transform 0.25s ease;
+    cursor: zoom-in;
+  }
+  
+  input[type=checkbox]:checked ~ label > img , input[type=checkbox2]:checked ~ label > img,input[type=checkbox3]:checked ~ label > img,input[type=checkbox4]:checked ~ label > img {
+    transform: scale(2);
+    cursor: crosshair;
+  }
+  img{
+      height: 200px;
+      width: 200px;
+  }
